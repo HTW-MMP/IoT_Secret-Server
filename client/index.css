@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+  background-color: #f4f4f4;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #aaa;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.main {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  height: 100%;
+}
+
+.secret {
+  color: #333338;
+}
