@@ -10,4 +10,5 @@ From the outside, this appears to be a regular web server. But as long as the di
 
 ### Digital Button Setup
 ![](http://fritzing.org/media/projects/d/i/g/digital-input-button/images/digital-input-button_Button_1.jpg)
+
 Image Copyright: [omer](http://fritzing.org/profiles/omer/) on fritzing.org (CC BY-SA)
