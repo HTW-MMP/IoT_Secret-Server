@@ -8,6 +8,6 @@ From the outside, this appears to be a regular web server. But as long as the di
 4. Start the script
 5. Navigate to the your edison on port `3000`, eg. `http://192.169.0.101:3000`
 
-#### Digital Button Setup
+#### Digital Button Setup (ignore the LED)
 <img src="repo/digital-button.jpg" alt="Setting up the button on pin 2" />
 Image Copyright: [omer](http://fritzing.org/profiles/omer/) on fritzing.org (CC BY-SA)
