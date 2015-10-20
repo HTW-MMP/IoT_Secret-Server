@@ -1,5 +1,5 @@
 # Secret Server
-From the outside, this is just a regular webserver. But as long as the digital button is pressed, a secret page appears to the visitors.
+From the outside, this appears to be a regular web server. But as long as the digital button is pressed, a second, secret page is shown to the visitors.
 
 ## Installation
 1. Clone/download this repository
